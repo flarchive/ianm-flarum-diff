@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of ianm/flarum-diff.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/flarum-diff) or the [upstream repository](https://github.com/imorland/flarum-diff).
 
-**0** versions archived · Latest: [`3.0.0`](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**20** versions archived · Latest: [`3.0.0`](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v3.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta.1` | 2020-02-10 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.1) |
+| `0.1.0-beta.2` | 2020-02-13 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.2) |
+| `0.1.0-beta.3` | 2020-02-13 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.3) |
+| `0.1.0-beta.4` | 2020-02-16 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.4) |
+| `0.1.0-beta.5` | 2020-02-19 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.5) |
+| `0.1.0-beta.6` | 2020-02-21 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.6) |
+| `0.1.0-beta.7` | 2020-03-05 | `>=0.1.0-beta.10 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.1.0-beta.7) |
+| `0.2.0-beta.1` | 2021-02-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v0.2.0-beta.1) |
+| `1.0.0` | 2020-03-28 | `>=0.1.0-beta.10 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v1.0.0) |
+| `1.0.1` | 2020-03-29 | `>=0.1.0-beta.10 <0.1.0-beta.13` | [Browse](https://github.com/flarchive/ianm-flarum-diff/tree/archive/v1.0.1) |
+
+[View all 20 versions](https://github.com/flarchive/ianm-flarum-diff/tags)
 
 Catalog entry: [packages/ianm-flarum-diff.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-flarum-diff.json)
 
